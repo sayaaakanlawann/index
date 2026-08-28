@@ -20,4 +20,7 @@
   <li>
     <a href="https://japaneseknifecompany.com/" rel="sponsored">slot pulsa</a>
   </li>
+  <li>
+    <a href="https://rechthaler.com/" rel="sponsored">slot thailand</a>
+  </li>
 </ul>
